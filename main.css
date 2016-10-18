@@ -1,0 +1,62 @@
+h2 {
+border-left-width:thick;
+}
+
+h1 {
+ text-align:center;
+}
+
+header {
+  color:inherit;
+}
+
+head{
+ color:blue;
+}
+
+h3{
+ text-align:center; 
+}
+
+Ul {
+ color:Black; 
+}
+  
+body {
+  padding: 20px;
+  }
+  
+ h2 {
+  text-align:center;
+  width: 150px;
+  margin: auto;
+  background-color: purple;
+  }
+  
+}
+ol {
+  color: black;
+}
+
+p{
+color: black;
+}
+
+footer {
+ text-align:center; 
+}
+body {
+Background-color: #4d79ff;
+}
+
+@font-family {
+  
+}
+
+h2 {
+ border-style: dotted;
+ border-width: 3px;
+ border-color: orange;
+ border-left-width: ;
+ border-right-width: ;
+}
